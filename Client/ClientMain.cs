@@ -129,38 +129,6 @@ namespace Bus69.Client
 
             return Task.FromResult(0);
         }
-
-        // [Tick]
-        // public async Task<Task<int>> Taikuri()
-        // {
-        //     float distanceToMarker = API.GetDistanceBetweenCoords(
-        //         Game.PlayerPed.Position.X,
-        //         Game.PlayerPed.Position.Y,
-        //         Game.PlayerPed.Position.Z,
-        //         -1038.834f,
-        //         -2733.346f,
-        //         19.16927f,
-        //         false
-        //     );
-
-        //     if (distanceToMarker > 1.0f)
-        //     {
-        //         World.DrawMarker(MarkerType.VerticalCylinder, new Vector3(-1038.834f, -2733.346f, 19.16927f), Vector3.Zero, Vector3.Zero, new Vector3(1.0f, 1.0f, 1.0f), Color.FromArgb(255, 0, 255, 0), false, false, false, null, null, false);
-        //     }
-        //     else
-        //     {
-        //         Notifications.ShowHelpNotification("Press ~INPUT_CONTEXT~ to call buss.");
-
-        //         while (!API.IsControlJustPressed(0, (int)Control.Context))
-        //         {
-        //             await Delay(0);
-        //         }
-
-        //         Notifications.ShowHelpNotification("Buss is on the way.");
-        //     }
-
-        //     return Task.FromResult(0);
-        // }
     }
 }
 
