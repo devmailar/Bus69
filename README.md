@@ -20,4 +20,4 @@ To edit it, open `Bus69.sln` in Visual Studio.
 
 To build it, run `dotnet build` and to watch it building run `.\watch.cmd`
 
-<img src="https://github.com/user-attachments/assets/3a253541-925d-4411-9e32-ee54f9d089fb" width="250"/>
+<img src="https://github.com/user-attachments/assets/3a253541-925d-4411-9e32-ee54f9d089fb" width="400"/>
