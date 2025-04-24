@@ -119,7 +119,7 @@ namespace Bus69.Client
 
             API.SetFollowVehicleCamViewMode(4);
 
-            Notifications.ShowHelpNotification("~BLIP_BUS~ Bus is departuring.");
+            Notifications.ShowHelpNotification("~BLIP_BUS~ Bus69 is departuring.");
         }
 
         [Tick]
