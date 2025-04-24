@@ -9,7 +9,8 @@ namespace Bus69.Client
 {
     public class ClientMain : BaseScript
     {
-        private int playerBlipId = API.GetMainPlayerBlipId();
+        private readonly int playerBlipId = API.GetMainPlayerBlipId();
+
         public ClientMain()
         {
             Debug.WriteLine("Hi from Bus69.Client!");
@@ -38,19 +39,15 @@ namespace Bus69.Client
         private async Task CreateBus()
         {
             Ped airdriver = await World.CreatePed(new Model("mp_m_freemode_01"), new Vector3(-1067.831f, -2559.146f, 21.0f), 237.912f);
-            API.SetPedComponentVariation(airdriver.Handle, 2, 4, 4, 0); // Accessory
+            API.SetPedComponentVariation(airdriver.Handle, 2, 4, 4, 0); // Hair
             API.SetPedComponentVariation(airdriver.Handle, 7, 38, 0, 0); // Accessory
             API.SetPedComponentVariation(airdriver.Handle, 11, 242, 1, 0); // Jacket
             API.SetPedComponentVariation(airdriver.Handle, 8, 15, 0, 0); // Shirt
             API.SetPedComponentVariation(airdriver.Handle, 4, 35, 0, 0); // Pants
             API.SetPedComponentVariation(airdriver.Handle, 6, 21, 0, 0); // Shoes
-            airdriver.IsExplosionProof = true;
-            airdriver.IsPersistent = true;
             airdriver.BlockPermanentEvents = true;
 
             Vehicle airbus = await World.CreateVehicle(new Model("airbus"), new Vector3(-1062.101f, -2555.909f, 20.07566f), 150.1505f);
-            airbus.IsExplosionProof = true;
-            airbus.IsPersistent = true;
             airbus.Mods.Livery = 1;
 
             Blip airbusBlip;
@@ -131,4 +128,3 @@ namespace Bus69.Client
         }
     }
 }
-
