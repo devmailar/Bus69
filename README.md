@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/7449db8f-ce7d-4d32-986e-53f1025328fb" width="600"/><br>
 
-# Bus69
+# Bus69 [STANDALONE]
 Are you tired of scooting/biking or running (the worst) to the city from the LS airport simply because the server doesnt have working bus or taxi service? Let me introduce you to Bus69 the best airport transport that takes new players from LS airport to the city.
 
 This script is using ScaleformUI dependency which is created and maintained by manups4e.
