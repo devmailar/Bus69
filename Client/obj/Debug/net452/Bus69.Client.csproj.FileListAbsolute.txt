@@ -1,0 +1,11 @@
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\bin\Debug\net452\Bus69.Client.net.dll
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\bin\Debug\net452\CitizenFX.Core.Client.dll
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.csproj.AssemblyReference.cache
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.AssemblyInfoInputs.cache
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.AssemblyInfo.cs
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.csproj.CoreCompileInputs.cache
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.sourcelink.json
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Cl.42469AB2.Up2Date
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\obj\Debug\net452\Bus69.Client.net.dll
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Client\bin\Debug\net452\ScaleformUI.dll

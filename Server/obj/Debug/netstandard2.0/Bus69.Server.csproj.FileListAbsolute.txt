@@ -1,0 +1,11 @@
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\bin\Debug\netstandard2.0\Bus69.Server.deps.json
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\bin\Debug\netstandard2.0\Bus69.Server.net.dll
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\bin\Debug\netstandard2.0\Bus69.Server.net.pdb
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.csproj.AssemblyReference.cache
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.AssemblyInfoInputs.cache
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.AssemblyInfo.cs
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.csproj.CoreCompileInputs.cache
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.sourcelink.json
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.net.dll
+C:\Users\leosk\source\repos\Hiekkalaatikko\resources\Bus69\Server\obj\Debug\netstandard2.0\Bus69.Server.net.pdb

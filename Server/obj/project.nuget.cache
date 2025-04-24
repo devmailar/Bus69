@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XEAkmXRyDUU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosk\\source\\repos\\Hiekkalaatikko\\resources\\Bus69\\Server\\Bus69.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosk\\.nuget\\packages\\citizenfx.core.server\\1.0.10230\\citizenfx.core.server.1.0.10230.nupkg.sha512",
+    "C:\\Users\\leosk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\leosk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,5 +1,3 @@
-using System;
-using System.Threading.Tasks;
 using CitizenFX.Core;
 
 namespace Bus69.Server
@@ -10,11 +8,6 @@ namespace Bus69.Server
         {
             Debug.WriteLine("Hi from Bus69.Server!");
         }
-
-        [Command("hello_server")]
-        public void HelloServer()
-        {
-            Debug.WriteLine("Sure, hello.");
-        }
     }
 }
+
